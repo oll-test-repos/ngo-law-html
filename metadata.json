@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2022-12-09",
-      "codified-date": "2022-01-14",
+      "codified-date": "2022-02-07",
       "platform": {
         "reproducible": "false",
         "version": "2.8.0"
@@ -14,7 +14,7 @@
           "name": "ngo/law-xml"
         },
         {
-          "commit": "393546a9c53c0c4f9544f68bef34ea1294c21ae6",
+          "commit": "dcf3c0075926d53790af2b488f3b81a6f63af944",
           "name": "ngo/law-xml-codified"
         }
       ]
