@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2022-12-09",
+      "codified-date": "2018-03-05",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.8.0"
+      },
+      "publication": "publication/2022-12-09",
+      "repositories": [
+        {
+          "commit": "5972b8a9505b226b16ca3ada32ac275989400613",
+          "name": "ngo/law-xml"
+        },
+        {
+          "commit": "3a565a5b50ef5066434907ebb7ed3fbbdfaa3929",
+          "name": "ngo/law-xml-codified"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "https://sanmateo.ca.us.open.law",
+      "html-bulk": "https://github.com/oll-test-repos/cityofsanmateo-law-html",
+      "law-git": "https://github.com/oll-test-repos/cityofsanmateo-law.git",
+      "static-assets": "https://github.com/oll-test-repos/openlawlibrary-law-static-assets",
+      "xml-bulk": "https://github.com/oll-test-repos/cityofsanmateo-law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "Browse the Test laws and code of Open Law Library",
+    "history-start": "2018-03-05"
+  }
+}
